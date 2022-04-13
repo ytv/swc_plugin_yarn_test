@@ -29,8 +29,7 @@
               "transform": "lodash/{{member}}"
             }
           }
-        ]
-        
+        ]        
       ]
     }
   },
