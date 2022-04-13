@@ -1,0 +1,9 @@
+{
+  "name": "try_swc_added_plugins_yarn",
+  "packageManager": "yarn@3.2.0",
+  "devDependencies": {
+    "@swc/cli": "^0.1.57",
+    "@swc/core": "1.2.163",
+    "@swc/plugin-transform-imports": "^0.3.0"
+  }
+}
